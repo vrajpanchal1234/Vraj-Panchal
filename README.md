@@ -1,3 +1,4 @@
 # Vraj-Panchal
 Only for learning purpose 
-Auther-Vraj Panchal
+<br>
+Author-Vraj Panchal
